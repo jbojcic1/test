@@ -2,3 +2,4 @@ line one
 new line
 third line in file one
 line added from feature-three branch
+just another line
